@@ -33,10 +33,6 @@ This Power BI dashboard provides a comprehensive analysis of key performance ind
 * **Data Connectivity:**  Capable of connecting to various data sources (e.g., Excel, CSV, databases) and importing data into Power BI.
 * **Report Design and Layout:**  Focused on creating user-friendly and visually appealing dashboards with clear navigation and intuitive layouts.
 
-**Data Source:**
-
-* The data for this project is sourced from [**Specify the data source, e.g., a sample dataset, a simulated dataset, or a real call center database. If it's a sample or simulated dataset, mention that.**]
-
 **Potential Enhancements:**
 
 * **Real-time Data Integration:**  Implement real-time data streaming to provide up-to-the-minute insights into call center performance.
